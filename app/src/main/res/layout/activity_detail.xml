@@ -76,6 +76,7 @@
             </LinearLayout>
 
             <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerCapitulos"
                 android:layout_width="match_parent"
                 android:layout_height="400dp" />
 
